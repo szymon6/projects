@@ -1,0 +1,100 @@
+00-001; ul. 1 Maja;Warszawa
+00-001; ul. 3 Maja;Warszawa
+00-002; ul. 11 Listopada;Warszawa
+00-003; ul. Akademicka;Warszawa
+00-004; ul. gen. Władysława Andersa;Warszawa
+00-005; ul. Armii Krajowej;Warszawa
+00-006; ul. Balonowa;Warszawa
+00-007; ul. Bankowa;Warszawa
+00-008; ul. Józefa Bema;Warszawa
+00-009; ul. Bernardyńska;Warszawa
+00-009; ul. 1 Maja;Kraków
+00-010; ul. 3 Maja;Kraków
+00-011; ul. 11 Listopada;Kraków
+00-012; ul. Akademicka;Kraków
+00-013; ul. gen. Władysława Andersa;Kraków
+00-014; ul. Armii Krajowej;Kraków
+00-015; ul. Balonowa;Kraków
+00-016; ul. Bankowa;Kraków
+00-017; ul. Józefa Bema;Kraków
+00-018; ul. Bernardyńska;Kraków
+00-019; ul. 1 Maja;Łódź
+00-020; ul. 3 Maja;Łódź
+00-020; ul. 11 Listopada;Łódź
+00-021; ul. Akademicka;Łódź
+00-022; ul. gen. Władysława Andersa;Łódź
+00-023; ul. Armii Krajowej;Łódź
+00-024; ul. Balonowa;Łódź
+00-025; ul. Bankowa;Łódź
+00-026; ul. Józefa Bema;Łódź
+00-026; ul. Bernardyńska;Łódź
+00-027; ul. 1 Maja;Wrocław
+00-028; ul. 3 Maja;Wrocław
+00-029; ul. 11 Listopada;Wrocław
+00-030; ul. Akademicka;Wrocław
+00-031; ul. gen. Władysława Andersa;Wrocław
+00-032; ul. Armii Krajowej;Wrocław
+00-033; ul. Balonowa;Wrocław
+00-034; ul. Bankowa;Wrocław
+00-035; ul. Józefa Bema;Wrocław
+00-036; ul. Bernardyńska;Wrocław
+00-037; ul. 1 Maja;Poznań
+00-038; ul. 3 Maja;Poznań
+00-039; ul. 11 Listopada;Poznań
+00-040; ul. Akademicka;Poznań
+00-041; ul. gen. Władysława Andersa;Poznań
+00-042; ul. Armii Krajowej;Poznań
+00-043; ul. Balonowa;Poznań
+00-044; ul. Bankowa;Poznań
+00-046; ul. Józefa Bema;Poznań
+00-047; ul. Bernardyńska;Poznań
+00-048; ul. 1 Maja;Gdańsk
+00-049; ul. 3 Maja;Gdańsk
+00-050; ul. 11 Listopada;Gdańsk
+00-051; ul. Akademicka;Gdańsk
+00-052; ul. gen. Władysława Andersa;Gdańsk
+00-052; ul. Armii Krajowej;Gdańsk
+00-054; ul. Balonowa;Gdańsk
+00-055; ul. Bankowa;Gdańsk
+00-056; ul. Józefa Bema;Gdańsk
+00-057; ul. Bernardyńska;Gdańsk
+00-058; ul. 1 Maja;Szczecin
+00-059; ul. 3 Maja;Szczecin
+00-060; ul. 11 Listopada;Szczecin
+00-061; ul. Akademicka;Szczecin
+00-062; ul. gen. Władysława Andersa;Szczecin
+00-062; ul. Armii Krajowej;Szczecin
+00-063; ul. Balonowa;Szczecin
+00-064; ul. Bankowa;Szczecin
+00-065; ul. Józefa Bema;Szczecin
+00-066; ul. Bernardyńska;Szczecin
+00-067; ul. 1 Maja;Bydgoszcz
+00-067; ul. 3 Maja;Bydgoszcz
+00-068; ul. 11 Listopada;Bydgoszcz
+00-068; ul. Akademicka;Bydgoszcz
+00-070; ul. gen. Władysława Andersa;Bydgoszcz
+00-071; ul. Armii Krajowej;Bydgoszcz
+00-072; ul. Balonowa;Bydgoszcz
+00-073; ul. Bankowa;Bydgoszcz
+00-074; ul. Józefa Bema;Bydgoszcz
+00-075; ul. Bernardyńska;Bydgoszcz
+00-076; ul. 1 Maja;Lublin
+00-077; ul. 3 Maja;Lublin
+00-078; ul. 11 Listopada;Lublin
+00-079; ul. Akademicka;Lublin
+00-080; ul. gen. Władysława Andersa;Lublin
+00-081; ul. Armii Krajowej;Lublin
+00-081; ul. Balonowa;Lublin
+00-082; ul. Bankowa;Lublin
+00-083; ul. Józefa Bema;Lublin
+00-084; ul. Bernardyńska;Lublin
+00-085; ul. 1 Maja;Białystok
+00-086; ul. 3 Maja;Białystok
+00-087; ul. 11 Listopada;Białystok
+00-088; ul. Akademicka;Białystok
+00-089; ul. gen. Władysława Andersa;Białystok
+00-090; ul. Armii Krajowej;Białystok
+00-091; ul. Balonowa;Białystok
+00-092; ul. Bankowa;Białystok
+00-093; ul. Józefa Bema;Białystok
+00-094; ul. Bernardyńska;Białystok

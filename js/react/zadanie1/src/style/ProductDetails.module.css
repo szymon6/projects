@@ -1,0 +1,30 @@
+.container {
+    background-color: beige;
+    width: 60%;
+    margin: 10% auto;
+}
+
+.container img {
+    width: 60%;
+}
+
+.button {
+    cursor: pointer;
+    color: #eee;
+    background: black;
+    padding: 2% 4%;
+    text-transform: uppercase;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px;
+}
+
+.details {
+    display: flex;
+    padding: 5%;
+    align-items: flex-start;
+}
+
+.details div {
+    margin-left: 10px;
+}

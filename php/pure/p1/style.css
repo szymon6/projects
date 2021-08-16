@@ -1,0 +1,93 @@
+
+body{
+    color: white;
+    background-color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+#koszyk{
+    color: black;
+    background-color:white;
+    margin:0;
+    width:300px;
+    font-size: large;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#koszyk div {
+    padding-top:20px;
+    margin-left:10px;
+}
+
+#koszyk input {
+    margin-top:20px;
+    padding:10px;
+    width: 100%;
+    font-size: larger;
+    color: rgb(194, 26, 26);
+    cursor: pointer;
+   
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
+.produkt{
+    width:500px;
+    height:300px ;
+    font-size: large;
+
+
+    margin-top:30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.zdjecie{
+    
+   float: left;
+    background-color: white;
+    height: 300px;
+    width: 300px;
+}
+
+.info{
+    background-color:rgb(194, 26, 26);
+    height: 100%;
+    width: 200px;
+    float: left;
+    color: white;
+    position:relative
+}
+
+form{
+    margin-left:0px !important;
+}
+
+
+.info * {
+    margin-left:10px; 
+}
+
+
+
+.info input{
+    position:absolute;
+    bottom:0;
+    bottom:0;
+    font-size: larger;
+    padding: 10px;
+    width: 100%;
+    margin: 0;
+    color: rgb(194, 26, 26);
+    cursor: pointer;
+}

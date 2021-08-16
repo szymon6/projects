@@ -1,0 +1,13 @@
+.item {
+    background-color: rgb(180, 180, 180);
+    display: flex;
+    margin: 20px 0;
+}
+
+.item > * {
+    margin: 10px 30px;
+}
+
+img {
+    width: 20%;
+}

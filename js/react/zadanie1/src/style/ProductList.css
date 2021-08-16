@@ -1,0 +1,19 @@
+.products {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.product {
+    border: 2px solid rgba(220, 220, 220, 0.5);
+    text-align: center;
+    margin: 20px;
+    font-family: arial;
+}
+
+.product img {
+    width: 300px;
+    margin-top: 20px;
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">zad2</string>
+
+    <string-array name="colors">
+        <item>Czerwony</item>
+        <item>Niebieski</item>
+        <item>Zielony</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,15 @@
+.content {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+Form {
+    background-color: rgb(238, 238, 238);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+Button {
+    margin-top: 10px !important;
+}
